@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(40, 226, 71);
+    background-color: rgb(202, 180, 180);
 
 }
 
@@ -15,4 +15,55 @@ color: red;
 .BIGFONT{
     font-size: 100px;
     
+}
+
+.Spacing{
+    box-sizing: border-box;
+    padding-left: 10px;
+    margin-top: 20px;
+    border: 2px solid rgb(226, 43, 43);
+    border-radius: 10px;
+    auto: 0;
+    background-color: rgb(68, 0, 255);
+    }
+
+.inBox{
+    font-size: 100;
+    color: black;
+    box-sizing: border-box;
+    padding-left: 5px;
+    margin-top: 10px;
+    border-style: 2px groove rgb(212, 195, 41);
+    auto: 0;
+    background-color: aquamarine;
+}
+
+.PrettyDiv{
+    color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    margin: 10px;
+    border: 3px solid  rgb(27, 17, 112);
+    auto: 0;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+.highlight{
+background-color: rgb(201, 235, 13);
+}
+
+
+.PrettyLinks{
+    color: black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    padding-left: 5px;
+    margin: 10px;
+    border: 3px solid  rgb(27, 17, 112);
+    auto: 0;
+    background-color: aquamarine;
+
 }
